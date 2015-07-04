@@ -6,3 +6,4 @@ function addReady(fn){
 	}
 }
 !window.$ && window.$ = addReady;
+//author vidy;
